@@ -31,4 +31,5 @@ sleep(3)
 
 # Passo 2: Navegar no sistema e encontrar a base de dados (entrar na pasta Exportar)
 pyautogui.click(x=159, y=287, clicks=2)
+pyautogui.click(x=922, y=183)
 # print(pyautogui.position())
